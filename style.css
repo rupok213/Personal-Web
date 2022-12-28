@@ -57,6 +57,28 @@ section{
 .latest-work-demo{
     width: 28%;
     margin: 2%;
-    float: left;
-    
+    float: left;    
+}
+
+.footer{
+    background-image: url(img/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+#footer-clint{
+    font-size: 40px;
+}
+#footer-CEO-designation{
+    color: gray;
+}
+.leave-message{
+    border: 1px solid black;
+    background-color:  tomato;
+    background-image: linear-gradient(45deg, tomato, brown);
+    width: 450px;
+    height: 120px;
+    margin-left: 35%;
+    border-radius: 15px;
+    color: white;
 }
